@@ -1,0 +1,4 @@
+<form action="{% url user_authenticated %}" method="POST">
+    {% csrf_token %}
+    {{ form }}
+</form>
