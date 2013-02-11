@@ -1,2 +1,5 @@
 Django==1.4.3
+certifi==0.0.8
 django-ical==1.2
+oauth2==1.5.211
+python-dateutil==2.1

@@ -1,1 +1,3 @@
 *.pyc
+USOScalendar/usoscalendar.db
+USOScalendar/secret_settings.py

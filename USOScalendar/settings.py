@@ -13,7 +13,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         # 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.
-        'NAME': 'USOSCalendar/usoscalendar.db',
+        'NAME': 'USOScalendar/usoscalendar.db',
         'USER': '',
         'PASSWORD': '',
         'HOST': '',
