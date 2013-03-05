@@ -110,7 +110,7 @@ class USOSCalendar(ICalFeed):
         client = oauth.Client(usos_get_consumer(), access_token)
         client.ca_certs = certifi.where()
         ret = []
-        for i in range(0, 23):
+        for i in range(-2, 23):
             resp, content = client.request(
                 user_activities_url +
                 '?start=' +
