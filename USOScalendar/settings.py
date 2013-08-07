@@ -155,7 +155,7 @@ LOGGING = {
     }
 }
 
-USOS_API_URL = 'https://apps.usos.edu.pl/'
+USOS_API_URL = 'https://usosapps.uw.edu.pl/'
 
 # Keys to USOS API
 from secret_settings import USOS_CONSUMER_KEY       # NOQA
